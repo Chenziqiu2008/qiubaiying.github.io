@@ -3,22 +3,22 @@ title: Parallel Brain
 SEOTitle: Parallel Brain | 平行脑空间
 header-img: img/post-bg-desk.jpg
 email: chen_200810031@126.com
-description: " Welcome to the world: No.45 "
+description: "Welcome to the world: No.45"
 keyword: "PB, 子秋 , elsie , No.45"
 url: "http://Chenziqiu2008.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+sidebar: false                           # whether or not using Sidebar.
 sidebar-about-description: "Welcome to the world: No.45"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     1005051698083080
+weibo_username:     
 zhihu_username:   
 github_username:    
 facebook_username:  
