@@ -3,7 +3,7 @@ title: Parallel Brain
 SEOTitle: Parallel Brain | 平行脑空间
 header-img: img/post-bg-desk.jpg
 email: chen_200810031@126.com
-description: "Welcome to the world: No.45"
+description: " Welcome to the world: No.45 "
 keyword: "PB, 子秋 , elsie , No.45"
 url: "http://Chenziqiu2008.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -18,8 +18,8 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     荒秋-野岭
-zhihu_username:     陈子秋
+weibo_username:     荒秋-野岭
+zhihu_username:   
 github_username:    
 facebook_username:  
 jianshu_username:   
